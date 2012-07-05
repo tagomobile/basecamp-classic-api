@@ -1,6 +1,6 @@
 Basecamp Classic API
 ====================
-
+d
 This is the API for Basecamp Classic (basecamphq.com). Check out the API for the all new Basecamp (basecamp.com) [on GitHub](https://github.com/37signals/bcx-api).
 
 The Basecamp Classic API is implemented as vanilla XML over HTTP using all four verbs (GET/POST/PUT/DELETE). Every resource, like Post, Comment, or TodoList, has their own URL and are manipulated in isolation. We've tried to make the API follow the REST principles as much as we can.
